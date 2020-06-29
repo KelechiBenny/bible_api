@@ -1,0 +1,10 @@
+{
+    "kjv": {
+        "short": "kjv",
+        "name": "King James Version"
+    },
+    "amp": {
+        "short": "amp",
+        "name": "Amplified Bible"
+    }
+}
