@@ -1,0 +1,800 @@
+{
+    "old": {
+        "gen": {
+            "short": "Gen",
+            "name": "Genesis",
+            "chapters": {
+                "gen1": {
+                    "id": 1,
+                    "short": "Gen 1",
+                    "name": "Genesis 1"
+                },
+                "gen2": {
+                    "id": 2,
+                    "short": "Gen 2",
+                    "name": "Genesis 2"
+                },
+                "gen3": {
+                    "id": 3,
+                    "short": "Gen 3",
+                    "name": "Genesis 3"
+                },
+                "gen4": {
+                    "id": 4,
+                    "short": "Gen 4",
+                    "name": "Genesis 4"
+                },
+                "gen5": {
+                    "id": 5,
+                    "short": "Gen 5",
+                    "name": "Genesis 5"
+                },
+                "gen6": {
+                    "id": 6,
+                    "short": "Gen 6",
+                    "name": "Genesis 6"
+                },
+                "gen7": {
+                    "id": 7,
+                    "short": "Gen 7",
+                    "name": "Genesis 7"
+                },
+                "gen8": {
+                    "id": 8,
+                    "short": "Gen 8",
+                    "name": "Genesis 8"
+                },
+                "gen9": {
+                    "id": 9,
+                    "short": "Gen 9",
+                    "name": "Genesis 9"
+                },
+                "gen10": {
+                    "id": 10,
+                    "short": "Gen 10",
+                    "name": "Genesis 10"
+                },
+                "gen11": {
+                    "id": 11,
+                    "short": "Gen 11",
+                    "name": "Genesis 11"
+                },
+                "gen12": {
+                    "id": 12,
+                    "short": "Gen 12",
+                    "name": "Genesis 12"
+                },
+                "gen13": {
+                    "id": 13,
+                    "short": "Gen 13",
+                    "name": "Genesis 13"
+                },
+                "gen14": {
+                    "id": 14,
+                    "short": "Gen 14",
+                    "name": "Genesis 14"
+                },
+                "gen15": {
+                    "id": 15,
+                    "short": "Gen 15",
+                    "name": "Genesis 15"
+                },
+                "gen16": {
+                    "id": 16,
+                    "short": "Gen 16",
+                    "name": "Genesis 16"
+                },
+                "gen17": {
+                    "id": 17,
+                    "short": "Gen 17",
+                    "name": "Genesis 17"
+                },
+                "gen18": {
+                    "id": 18,
+                    "short": "Gen 18",
+                    "name": "Genesis 18"
+                },
+                "gen19": {
+                    "id": 19,
+                    "short": "Gen 19",
+                    "name": "Genesis 19"
+                },
+                "gen20": {
+                    "id": 20,
+                    "short": "Gen 20",
+                    "name": "Genesis 20"
+                },
+                "gen21": {
+                    "id": 21,
+                    "short": "Gen 21",
+                    "name": "Genesis 21"
+                },
+                "gen22": {
+                    "id": 22,
+                    "short": "Gen 22",
+                    "name": "Genesis 22"
+                },
+                "gen23": {
+                    "id": 23,
+                    "short": "Gen 23",
+                    "name": "Genesis 23"
+                },
+                "gen24": {
+                    "id": 24,
+                    "short": "Gen 24",
+                    "name": "Genesis 24"
+                },
+                "gen25": {
+                    "id": 25,
+                    "short": "Gen 25",
+                    "name": "Genesis 25"
+                },
+                "gen26": {
+                    "id": 26,
+                    "short": "Gen 26",
+                    "name": "Genesis 26"
+                },
+                "gen27": {
+                    "id": 27,
+                    "short": "Gen 27",
+                    "name": "Genesis 27"
+                },
+                "gen28": {
+                    "id": 28,
+                    "short": "Gen 28",
+                    "name": "Genesis 28"
+                },
+                "gen29": {
+                    "id": 29,
+                    "short": "Gen 29",
+                    "name": "Genesis 29"
+                },
+                "gen30": {
+                    "id": 30,
+                    "short": "Gen 30",
+                    "name": "Genesis 30"
+                },
+                "gen31": {
+                    "id": 31,
+                    "short": "Gen 31",
+                    "name": "Genesis 31"
+                },
+                "gen32": {
+                    "id": 32,
+                    "short": "Gen 32",
+                    "name": "Genesis 32"
+                },
+                "gen33": {
+                    "id": 33,
+                    "short": "Gen 33",
+                    "name": "Genesis 33"
+                },
+                "gen34": {
+                    "id": 34,
+                    "short": "Gen 34",
+                    "name": "Genesis 34"
+                },
+                "gen35": {
+                    "id": 35,
+                    "short": "Gen 35",
+                    "name": "Genesis 35"
+                },
+                "gen36": {
+                    "id": 36,
+                    "short": "Gen 36",
+                    "name": "Genesis 36"
+                },
+                "gen37": {
+                    "id": 37,
+                    "short": "Gen 37",
+                    "name": "Genesis 37"
+                },
+                "gen38": {
+                    "id": 38,
+                    "short": "Gen 38",
+                    "name": "Genesis 38"
+                },
+                "gen39": {
+                    "id": 39,
+                    "short": "Gen 39",
+                    "name": "Genesis 39"
+                },
+                "gen40": {
+                    "id": 40,
+                    "short": "Gen 40",
+                    "name": "Genesis 40"
+                },
+                "gen41": {
+                    "id": 41,
+                    "short": "Gen 41",
+                    "name": "Genesis 41"
+                },
+                "gen42": {
+                    "id": 42,
+                    "short": "Gen 42",
+                    "name": "Genesis 42"
+                },
+                "gen43": {
+                    "id": 43,
+                    "short": "Gen 43",
+                    "name": "Genesis 43"
+                },
+                "gen44": {
+                    "id": 44,
+                    "short": "Gen 44",
+                    "name": "Genesis 44"
+                },
+                "gen45": {
+                    "id": 45,
+                    "short": "Gen 45",
+                    "name": "Genesis 45"
+                },
+                "gen46": {
+                    "id": 46,
+                    "short": "Gen 46",
+                    "name": "Genesis 46"
+                },
+                "gen47": {
+                    "id": 47,
+                    "short": "Gen 47",
+                    "name": "Genesis 47"
+                },
+                "gen48": {
+                    "id": 48,
+                    "short": "Gen 48",
+                    "name": "Genesis 48"
+                },
+                "gen49": {
+                    "id": 49,
+                    "short": "Gen 49",
+                    "name": "Genesis 49"
+                },
+                "gen50": {
+                    "id": 50,
+                    "short": "Gen 50",
+                    "name": "Genesis 50"
+                },
+                "gen51": {
+                    "id": 51,
+                    "short": "Gen 51",
+                    "name": "Genesis 51"
+                },
+                "gen52": {
+                    "id": 52,
+                    "short": "Gen 52",
+                    "name": "Genesis 52"
+                },
+                "gen53": {
+                    "id": 53,
+                    "short": "Gen 53",
+                    "name": "Genesis 53"
+                },
+                "gen54": {
+                    "id": 54,
+                    "short": "Gen 54",
+                    "name": "Genesis 54"
+                },
+                "gen55": {
+                    "id": 55,
+                    "short": "Gen 55",
+                    "name": "Genesis 55"
+                },
+                "gen56": {
+                    "id": 56,
+                    "short": "Gen 56",
+                    "name": "Genesis 56"
+                },
+                "gen57": {
+                    "id": 57,
+                    "short": "Gen 57",
+                    "name": "Genesis 57"
+                },
+                "gen58": {
+                    "id": 58,
+                    "short": "Gen 58",
+                    "name": "Genesis 58"
+                },
+                "gen59": {
+                    "id": 59,
+                    "short": "Gen 59",
+                    "name": "Genesis 59"
+                },
+                "gen60": {
+                    "id": 60,
+                    "short": "Gen 60",
+                    "name": "Genesis 60"
+                },
+                "gen61": {
+                    "id": 61,
+                    "short": "Gen 61",
+                    "name": "Genesis 61"
+                },
+                "gen62": {
+                    "id": 62,
+                    "short": "Gen 62",
+                    "name": "Genesis 62"
+                },
+                "gen63": {
+                    "id": 63,
+                    "short": "Gen 63",
+                    "name": "Genesis 63"
+                },
+                "gen64": {
+                    "id": 64,
+                    "short": "Gen 64",
+                    "name": "Genesis 64"
+                },
+                "gen65": {
+                    "id": 65,
+                    "short": "Gen 65",
+                    "name": "Genesis 65"
+                },
+                "gen66": {
+                    "id": 66,
+                    "short": "Gen 66",
+                    "name": "Genesis 66"
+                },
+                "gen67": {
+                    "id": 67,
+                    "short": "Gen 67",
+                    "name": "Genesis 67"
+                },
+                "gen68": {
+                    "id": 68,
+                    "short": "Gen 68",
+                    "name": "Genesis 68"
+                },
+                "gen69": {
+                    "id": 69,
+                    "short": "Gen 69",
+                    "name": "Genesis 69"
+                },
+                "gen70": {
+                    "id": 70,
+                    "short": "Gen 70",
+                    "name": "Genesis 70"
+                },
+                "gen71": {
+                    "id": 71,
+                    "short": "Gen 71",
+                    "name": "Genesis 71"
+                },
+                "gen72": {
+                    "id": 72,
+                    "short": "Gen 72",
+                    "name": "Genesis 72"
+                },
+                "gen73": {
+                    "id": 73,
+                    "short": "Gen 73",
+                    "name": "Genesis 73"
+                },
+                "gen74": {
+                    "id": 74,
+                    "short": "Gen 74",
+                    "name": "Genesis 74"
+                },
+                "gen75": {
+                    "id": 75,
+                    "short": "Gen 75",
+                    "name": "Genesis 75"
+                },
+                "gen76": {
+                    "id": 76,
+                    "short": "Gen 76",
+                    "name": "Genesis 76"
+                },
+                "gen77": {
+                    "id": 77,
+                    "short": "Gen 77",
+                    "name": "Genesis 77"
+                },
+                "gen78": {
+                    "id": 78,
+                    "short": "Gen 78",
+                    "name": "Genesis 78"
+                },
+                "gen79": {
+                    "id": 79,
+                    "short": "Gen 79",
+                    "name": "Genesis 79"
+                },
+                "gen80": {
+                    "id": 80,
+                    "short": "Gen 80",
+                    "name": "Genesis 80"
+                },
+                "gen81": {
+                    "id": 81,
+                    "short": "Gen 81",
+                    "name": "Genesis 81"
+                },
+                "gen82": {
+                    "id": 82,
+                    "short": "Gen 82",
+                    "name": "Genesis 82"
+                },
+                "gen83": {
+                    "id": 83,
+                    "short": "Gen 83",
+                    "name": "Genesis 83"
+                },
+                "gen84": {
+                    "id": 84,
+                    "short": "Gen 84",
+                    "name": "Genesis 84"
+                },
+                "gen85": {
+                    "id": 85,
+                    "short": "Gen 85",
+                    "name": "Genesis 85"
+                },
+                "gen86": {
+                    "id": 86,
+                    "short": "Gen 86",
+                    "name": "Genesis 86"
+                },
+                "gen87": {
+                    "id": 87,
+                    "short": "Gen 87",
+                    "name": "Genesis 87"
+                },
+                "gen88": {
+                    "id": 88,
+                    "short": "Gen 88",
+                    "name": "Genesis 88"
+                },
+                "gen89": {
+                    "id": 89,
+                    "short": "Gen 89",
+                    "name": "Genesis 89"
+                },
+                "gen90": {
+                    "id": 90,
+                    "short": "Gen 90",
+                    "name": "Genesis 90"
+                },
+                "gen91": {
+                    "id": 91,
+                    "short": "Gen 91",
+                    "name": "Genesis 91"
+                },
+                "gen92": {
+                    "id": 92,
+                    "short": "Gen 92",
+                    "name": "Genesis 92"
+                },
+                "gen93": {
+                    "id": 93,
+                    "short": "Gen 93",
+                    "name": "Genesis 93"
+                },
+                "gen94": {
+                    "id": 94,
+                    "short": "Gen 94",
+                    "name": "Genesis 94"
+                },
+                "gen95": {
+                    "id": 95,
+                    "short": "Gen 95",
+                    "name": "Genesis 95"
+                },
+                "gen96": {
+                    "id": 96,
+                    "short": "Gen 96",
+                    "name": "Genesis 96"
+                },
+                "gen97": {
+                    "id": 97,
+                    "short": "Gen 97",
+                    "name": "Genesis 97"
+                },
+                "gen98": {
+                    "id": 98,
+                    "short": "Gen 98",
+                    "name": "Genesis 98"
+                },
+                "gen99": {
+                    "id": 99,
+                    "short": "Gen 99",
+                    "name": "Genesis 99"
+                },
+                "gen100": {
+                    "id": 100,
+                    "short": "Gen 100",
+                    "name": "Genesis 100"
+                },
+                "gen101": {
+                    "id": 101,
+                    "short": "Gen 101",
+                    "name": "Genesis 101"
+                },
+                "gen102": {
+                    "id": 102,
+                    "short": "Gen 102",
+                    "name": "Genesis 102"
+                },
+                "gen103": {
+                    "id": 103,
+                    "short": "Gen 103",
+                    "name": "Genesis 103"
+                },
+                "gen104": {
+                    "id": 104,
+                    "short": "Gen 104",
+                    "name": "Genesis 104"
+                },
+                "gen105": {
+                    "id": 105,
+                    "short": "Gen 105",
+                    "name": "Genesis 105"
+                },
+                "gen106": {
+                    "id": 106,
+                    "short": "Gen 106",
+                    "name": "Genesis 106"
+                },
+                "gen107": {
+                    "id": 107,
+                    "short": "Gen 107",
+                    "name": "Genesis 107"
+                },
+                "gen108": {
+                    "id": 108,
+                    "short": "Gen 108",
+                    "name": "Genesis 108"
+                },
+                "gen109": {
+                    "id": 109,
+                    "short": "Gen 109",
+                    "name": "Genesis 109"
+                },
+                "gen110": {
+                    "id": 110,
+                    "short": "Gen 110",
+                    "name": "Genesis 110"
+                },
+                "gen111": {
+                    "id": 111,
+                    "short": "Gen 111",
+                    "name": "Genesis 111"
+                },
+                "gen112": {
+                    "id": 112,
+                    "short": "Gen 112",
+                    "name": "Genesis 112"
+                },
+                "gen113": {
+                    "id": 113,
+                    "short": "Gen 113",
+                    "name": "Genesis 113"
+                },
+                "gen114": {
+                    "id": 114,
+                    "short": "Gen 114",
+                    "name": "Genesis 114"
+                },
+                "gen115": {
+                    "id": 115,
+                    "short": "Gen 115",
+                    "name": "Genesis 115"
+                },
+                "gen116": {
+                    "id": 116,
+                    "short": "Gen 116",
+                    "name": "Genesis 116"
+                },
+                "gen117": {
+                    "id": 117,
+                    "short": "Gen 117",
+                    "name": "Genesis 117"
+                },
+                "gen118": {
+                    "id": 118,
+                    "short": "Gen 118",
+                    "name": "Genesis 118"
+                },
+                "gen119": {
+                    "id": 119,
+                    "short": "Gen 119",
+                    "name": "Genesis 119"
+                },
+                "gen120": {
+                    "id": 120,
+                    "short": "Gen 120",
+                    "name": "Genesis 120"
+                },
+                "gen121": {
+                    "id": 121,
+                    "short": "Gen 121",
+                    "name": "Genesis 121"
+                },
+                "gen122": {
+                    "id": 122,
+                    "short": "Gen 122",
+                    "name": "Genesis 122"
+                },
+                "gen123": {
+                    "id": 123,
+                    "short": "Gen 123",
+                    "name": "Genesis 123"
+                },
+                "gen124": {
+                    "id": 124,
+                    "short": "Gen 124",
+                    "name": "Genesis 124"
+                },
+                "gen125": {
+                    "id": 125,
+                    "short": "Gen 125",
+                    "name": "Genesis 125"
+                },
+                "gen126": {
+                    "id": 126,
+                    "short": "Gen 126",
+                    "name": "Genesis 126"
+                },
+                "gen127": {
+                    "id": 127,
+                    "short": "Gen 127",
+                    "name": "Genesis 127"
+                },
+                "gen128": {
+                    "id": 128,
+                    "short": "Gen 128",
+                    "name": "Genesis 128"
+                },
+                "gen129": {
+                    "id": 129,
+                    "short": "Gen 129",
+                    "name": "Genesis 129"
+                },
+                "gen130": {
+                    "id": 130,
+                    "short": "Gen 130",
+                    "name": "Genesis 130"
+                },
+                "gen131": {
+                    "id": 131,
+                    "short": "Gen 131",
+                    "name": "Genesis 131"
+                },
+                "gen132": {
+                    "id": 132,
+                    "short": "Gen 132",
+                    "name": "Genesis 132"
+                },
+                "gen133": {
+                    "id": 133,
+                    "short": "Gen 133",
+                    "name": "Genesis 133"
+                },
+                "gen134": {
+                    "id": 134,
+                    "short": "Gen 134",
+                    "name": "Genesis 134"
+                },
+                "gen135": {
+                    "id": 135,
+                    "short": "Gen 135",
+                    "name": "Genesis 135"
+                },
+                "gen136": {
+                    "id": 136,
+                    "short": "Gen 136",
+                    "name": "Genesis 136"
+                },
+                "gen137": {
+                    "id": 137,
+                    "short": "Gen 137",
+                    "name": "Genesis 137"
+                },
+                "gen138": {
+                    "id": 138,
+                    "short": "Gen 138",
+                    "name": "Genesis 138"
+                },
+                "gen139": {
+                    "id": 139,
+                    "short": "Gen 139",
+                    "name": "Genesis 139"
+                },
+                "gen140": {
+                    "id": 140,
+                    "short": "Gen 140",
+                    "name": "Genesis 140"
+                },
+                "gen141": {
+                    "id": 141,
+                    "short": "Gen 141",
+                    "name": "Genesis 141"
+                },
+                "gen142": {
+                    "id": 142,
+                    "short": "Gen 142",
+                    "name": "Genesis 142"
+                },
+                "gen143": {
+                    "id": 143,
+                    "short": "Gen 143",
+                    "name": "Genesis 143"
+                },
+                "gen144": {
+                    "id": 144,
+                    "short": "Gen 144",
+                    "name": "Genesis 144"
+                },
+                "gen145": {
+                    "id": 145,
+                    "short": "Gen 145",
+                    "name": "Genesis 145"
+                },
+                "gen146": {
+                    "id": 146,
+                    "short": "Gen 146",
+                    "name": "Genesis 146"
+                },
+                "gen147": {
+                    "id": 147,
+                    "short": "Gen 147",
+                    "name": "Genesis 147"
+                },
+                "gen148": {
+                    "id": 148,
+                    "short": "Gen 148",
+                    "name": "Genesis 148"
+                },
+                "gen149": {
+                    "id": 149,
+                    "short": "Gen 149",
+                    "name": "Genesis 149"
+                },
+                "gen150": {
+                    "id": 150,
+                    "short": "Gen 150",
+                    "name": "Genesis 150"
+                },
+                "gen151": {
+                    "id": 151,
+                    "short": "Gen 151",
+                    "name": "Genesis 151"
+                },
+                "gen152": {
+                    "id": 152,
+                    "short": "Gen 152",
+                    "name": "Genesis 152"
+                },
+                "gen153": {
+                    "id": 153,
+                    "short": "Gen 153",
+                    "name": "Genesis 153"
+                },
+                "gen154": {
+                    "id": 154,
+                    "short": "Gen 154",
+                    "name": "Genesis 154"
+                },
+                "gen155": {
+                    "id": 155,
+                    "short": "Gen 155",
+                    "name": "Genesis 155"
+                },
+                "gen156": {
+                    "id": 156,
+                    "short": "Gen 156",
+                    "name": "Genesis 156"
+                },
+                "gen157": {
+                    "id": 157,
+                    "short": "Gen 157",
+                    "name": "Genesis 157"
+                }
+
+            
+            }
+        }
+    },
+    "new": {
+                
+    }
+}
