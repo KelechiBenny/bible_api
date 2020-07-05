@@ -1,0 +1,652 @@
+"songs": {
+    "short": "Songs",
+    "name": "Songs of Solomon",
+    "chapters": {
+        "songs1": {
+            "id": 1,
+            "short": "Songs 1",
+            "name": "Songs of Solomon 1"
+        },
+        "songs2": {
+            "id": 2,
+            "short": "Songs 2",
+            "name": "Songs of Solomon 2"
+        },
+        "songs3": {
+            "id": 3,
+            "short": "Songs 3",
+            "name": "Songs of Solomon 3"
+        },
+        "songs4": {
+            "id": 4,
+            "short": "Songs 4",
+            "name": "Songs of Solomon 4"
+        },
+        "songs5": {
+            "id": 5,
+            "short": "Songs 5",
+            "name": "Songs of Solomon 5"
+        },
+        "songs6": {
+            "id": 6,
+            "short": "Songs 6",
+            "name": "Songs of Solomon 6"
+        },
+        "songs7": {
+            "id": 7,
+            "short": "Songs 7",
+            "name": "Songs of Solomon 7"
+        },
+        "songs8": {
+            "id": 8,
+            "short": "Songs 8",
+            "name": "Songs of Solomon 8"
+        }
+    
+    }
+},
+"isa": {
+    "short": "Isa",
+    "name": "Isaiah",
+    "chapters": {
+        "isa1": {
+            "id": 1,
+            "short": "Isa 1",
+            "name": "Isaiah 1"
+        },
+        "isa2": {
+            "id": 2,
+            "short": "Isa 2",
+            "name": "Isaiah 2"
+        },
+        "isa3": {
+            "id": 3,
+            "short": "Isa 3",
+            "name": "Isaiah 3"
+        },
+        "isa4": {
+            "id": 4,
+            "short": "Isa 4",
+            "name": "Isaiah 4"
+        },
+        "isa5": {
+            "id": 5,
+            "short": "Isa 5",
+            "name": "Isaiah 5"
+        },
+        "isa6": {
+            "id": 6,
+            "short": "Isa 6",
+            "name": "Isaiah 6"
+        },
+        "isa7": {
+            "id": 7,
+            "short": "Isa 7",
+            "name": "Isaiah 7"
+        },
+        "isa8": {
+            "id": 8,
+            "short": "Isa 8",
+            "name": "Isaiah 8"
+        },
+        "isa9": {
+            "id": 9,
+            "short": "Isa 9",
+            "name": "Isaiah 9"
+        },
+        "isa10": {
+            "id": 10,
+            "short": "Isa 10",
+            "name": "Isaiah 10"
+        },
+        "isa11": {
+            "id": 11,
+            "short": "Isa 11",
+            "name": "Isaiah 11"
+        },
+        "isa12": {
+            "id": 12,
+            "short": "Isa 12",
+            "name": "Isaiah 12"
+        },
+        "isa13": {
+            "id": 13,
+            "short": "Isa 13",
+            "name": "Isaiah 13"
+        },
+        "isa14": {
+            "id": 14,
+            "short": "Isa 14",
+            "name": "Isaiah 14"
+        },
+        "isa15": {
+            "id": 15,
+            "short": "Isa 15",
+            "name": "Isaiah 15"
+        },
+        "isa16": {
+            "id": 16,
+            "short": "Isa 16",
+            "name": "Isaiah 16"
+        },
+        "isa17": {
+            "id": 17,
+            "short": "Isa 17",
+            "name": "Isaiah 17"
+        },
+        "isa18": {
+            "id": 18,
+            "short": "Isa 18",
+            "name": "Isaiah 18"
+        },
+        "isa19": {
+            "id": 19,
+            "short": "Isa 19",
+            "name": "Isaiah 19"
+        },
+        "isa20": {
+            "id": 20,
+            "short": "Isa 20",
+            "name": "Isaiah 20"
+        },
+        "isa21": {
+            "id": 21,
+            "short": "Isa 21",
+            "name": "Isaiah 21"
+        },
+        "isa22": {
+            "id": 22,
+            "short": "Isa 22",
+            "name": "Isaiah 22"
+        },
+        "isa23": {
+            "id": 23,
+            "short": "Isa 23",
+            "name": "Isaiah 23"
+        },
+        "isa24": {
+            "id": 24,
+            "short": "Isa 24",
+            "name": "Isaiah 24"
+        },
+        "isa25": {
+            "id": 25,
+            "short": "Isa 25",
+            "name": "Isaiah 25"
+        },
+        "isa26": {
+            "id": 26,
+            "short": "Isa 26",
+            "name": "Isaiah 26"
+        },
+        "isa27": {
+            "id": 27,
+            "short": "Isa 27",
+            "name": "Isaiah 27"
+        },
+        "isa28": {
+            "id": 28,
+            "short": "Isa 28",
+            "name": "Isaiah 28"
+        },
+        "isa29": {
+            "id": 29,
+            "short": "Isa 29",
+            "name": "Isaiah 29"
+        },
+        "isa30": {
+            "id": 30,
+            "short": "Isa 30",
+            "name": "Isaiah 30"
+        },
+        "isa31": {
+            "id": 31,
+            "short": "Isa 31",
+            "name": "Isaiah 31"
+        },
+        "isa32": {
+            "id": 32,
+            "short": "Isa 32",
+            "name": "Isaiah 32"
+        },
+        "isa33": {
+            "id": 33,
+            "short": "Isa 33",
+            "name": "Isaiah 33"
+        },
+        "isa34": {
+            "id": 34,
+            "short": "Isa 34",
+            "name": "Isaiah 34"
+        },
+        "isa35": {
+            "id": 35,
+            "short": "Isa 35",
+            "name": "Isaiah 35"
+        },
+        "isa36": {
+            "id": 36,
+            "short": "Isa 36",
+            "name": "Isaiah 36"
+        },
+        "isa37": {
+            "id": 37,
+            "short": "Isa 37",
+            "name": "Isaiah 37"
+        },
+        "isa38": {
+            "id": 38,
+            "short": "Isa 38",
+            "name": "Isaiah 38"
+        },
+        "isa39": {
+            "id": 39,
+            "short": "Isa 39",
+            "name": "Isaiah 39"
+        },
+        "isa40": {
+            "id": 40,
+            "short": "Isa 40",
+            "name": "Isaiah 40"
+        },
+        "isa41": {
+            "id": 41,
+            "short": "Isa 41",
+            "name": "Isaiah 41"
+        },
+        "isa42": {
+            "id": 42,
+            "short": "Isa 42",
+            "name": "Isaiah 42"
+        },
+        "isa43": {
+            "id": 43,
+            "short": "Isa 43",
+            "name": "Isaiah 43"
+        },
+        "isa44": {
+            "id": 44,
+            "short": "Isa 44",
+            "name": "Isaiah 44"
+        },
+        "isa45": {
+            "id": 45,
+            "short": "Isa 45",
+            "name": "Isaiah 45"
+        },
+        "isa46": {
+            "id": 46,
+            "short": "Isa 46",
+            "name": "Isaiah 46"
+        },
+        "isa47": {
+            "id": 47,
+            "short": "Isa 47",
+            "name": "Isaiah 47"
+        },
+        "isa48": {
+            "id": 48,
+            "short": "Isa 48",
+            "name": "Isaiah 48"
+        },
+        "isa49": {
+            "id": 49,
+            "short": "Isa 49",
+            "name": "Isaiah 49"
+        },
+        "isa50": {
+            "id": 50,
+            "short": "Isa 50",
+            "name": "Isaiah 50"
+        },
+        "isa51": {
+            "id": 51,
+            "short": "Isa 51",
+            "name": "Isaiah 51"
+        },
+        "isa52": {
+            "id": 52,
+            "short": "Isa 52",
+            "name": "Isaiah 52"
+        },
+        "isa53": {
+            "id": 53,
+            "short": "Isa 53",
+            "name": "Isaiah 53"
+        },
+        "isa54": {
+            "id": 54,
+            "short": "Isa 54",
+            "name": "Isaiah 54"
+        },
+        "isa55": {
+            "id": 55,
+            "short": "Isa 55",
+            "name": "Isaiah 55"
+        },
+        "isa56": {
+            "id": 56,
+            "short": "Isa 56",
+            "name": "Isaiah 56"
+        },
+        "isa57": {
+            "id": 57,
+            "short": "Isa 57",
+            "name": "Isaiah 57"
+        },
+        "isa58": {
+            "id": 58,
+            "short": "Isa 58",
+            "name": "Isaiah 58"
+        },
+        "isa59": {
+            "id": 59,
+            "short": "Isa 59",
+            "name": "Isaiah 59"
+        },
+        "isa60": {
+            "id": 60,
+            "short": "Isa 60",
+            "name": "Isaiah 60"
+        },
+        "isa61": {
+            "id": 61,
+            "short": "Isa 61",
+            "name": "Isaiah 61"
+        },
+        "isa62": {
+            "id": 62,
+            "short": "Isa 62",
+            "name": "Isaiah 62"
+        },
+        "isa63": {
+            "id": 63,
+            "short": "Isa 63",
+            "name": "Isaiah 63"
+        },
+        "isa64": {
+            "id": 64,
+            "short": "Isa 64",
+            "name": "Isaiah 64"
+        },
+        "isa65": {
+            "id": 65,
+            "short": "Isa 65",
+            "name": "Isaiah 65"
+        },
+        "isa66": {
+            "id": 66,
+            "short": "Isa 66",
+            "name": "Isaiah 66"
+        }
+
+    
+    }
+},
+"jer": {
+    "short": "Jer",
+    "name": "Jeremiah",
+    "chapters": {
+        "jer1": {
+            "id": 1,
+            "short": "Jer 1",
+            "name": "Jeremiah 1"
+        },
+        "jer2": {
+            "id": 2,
+            "short": "Jer 2",
+            "name": "Jeremiah 2"
+        },
+        "jer3": {
+            "id": 3,
+            "short": "Jer 3",
+            "name": "Jeremiah 3"
+        },
+        "jer4": {
+            "id": 4,
+            "short": "Jer 4",
+            "name": "Jeremiah 4"
+        },
+        "jer5": {
+            "id": 5,
+            "short": "Jer 5",
+            "name": "Jeremiah 5"
+        },
+        "jer6": {
+            "id": 6,
+            "short": "Jer 6",
+            "name": "Jeremiah 6"
+        },
+        "jer7": {
+            "id": 7,
+            "short": "Jer 7",
+            "name": "Jeremiah 7"
+        },
+        "jer8": {
+            "id": 8,
+            "short": "Jer 8",
+            "name": "Jeremiah 8"
+        },
+        "jer9": {
+            "id": 9,
+            "short": "Jer 9",
+            "name": "Jeremiah 9"
+        },
+        "jer10": {
+            "id": 10,
+            "short": "Jer 10",
+            "name": "Jeremiah 10"
+        },
+        "jer11": {
+            "id": 11,
+            "short": "Jer 11",
+            "name": "Jeremiah 11"
+        },
+        "jer12": {
+            "id": 12,
+            "short": "Jer 12",
+            "name": "Jeremiah 12"
+        },
+        "jer13": {
+            "id": 13,
+            "short": "Jer 13",
+            "name": "Jeremiah 13"
+        },
+        "jer14": {
+            "id": 14,
+            "short": "Jer 14",
+            "name": "Jeremiah 14"
+        },
+        "jer15": {
+            "id": 15,
+            "short": "Jer 15",
+            "name": "Jeremiah 15"
+        },
+        "jer16": {
+            "id": 16,
+            "short": "Jer 16",
+            "name": "Jeremiah 16"
+        },
+        "jer17": {
+            "id": 17,
+            "short": "Jer 17",
+            "name": "Jeremiah 17"
+        },
+        "jer18": {
+            "id": 18,
+            "short": "Jer 18",
+            "name": "Jeremiah 18"
+        },
+        "jer19": {
+            "id": 19,
+            "short": "Jer 19",
+            "name": "Jeremiah 19"
+        },
+        "jer20": {
+            "id": 20,
+            "short": "Jer 20",
+            "name": "Jeremiah 20"
+        },
+        "jer21": {
+            "id": 21,
+            "short": "Jer 21",
+            "name": "Jeremiah 21"
+        },
+        "jer22": {
+            "id": 22,
+            "short": "Jer 22",
+            "name": "Jeremiah 22"
+        },
+        "jer23": {
+            "id": 23,
+            "short": "Jer 23",
+            "name": "Jeremiah 23"
+        },
+        "jer24": {
+            "id": 24,
+            "short": "Jer 24",
+            "name": "Jeremiah 24"
+        },
+        "jer25": {
+            "id": 25,
+            "short": "Jer 25",
+            "name": "Jeremiah 25"
+        },
+        "jer26": {
+            "id": 26,
+            "short": "Jer 26",
+            "name": "Jeremiah 26"
+        },
+        "jer27": {
+            "id": 27,
+            "short": "Jer 27",
+            "name": "Jeremiah 27"
+        },
+        "jer28": {
+            "id": 28,
+            "short": "Jer 28",
+            "name": "Jeremiah 28"
+        },
+        "jer29": {
+            "id": 29,
+            "short": "Jer 29",
+            "name": "Jeremiah 29"
+        },
+        "jer30": {
+            "id": 30,
+            "short": "Jer 30",
+            "name": "Jeremiah 30"
+        },
+        "jer31": {
+            "id": 31,
+            "short": "Jer 31",
+            "name": "Jeremiah 31"
+        },
+        "jer32": {
+            "id": 32,
+            "short": "Jer 32",
+            "name": "Jeremiah 32"
+        },
+        "jer33": {
+            "id": 33,
+            "short": "Jer 33",
+            "name": "Jeremiah 33"
+        },
+        "jer34": {
+            "id": 34,
+            "short": "Jer 34",
+            "name": "Jeremiah 34"
+        },
+        "jer35": {
+            "id": 35,
+            "short": "Jer 35",
+            "name": "Jeremiah 35"
+        },
+        "jer36": {
+            "id": 36,
+            "short": "Jer 36",
+            "name": "Jeremiah 36"
+        },
+        "jer37": {
+            "id": 37,
+            "short": "Jer 37",
+            "name": "Jeremiah 37"
+        },
+        "jer38": {
+            "id": 38,
+            "short": "Jer 38",
+            "name": "Jeremiah 38"
+        },
+        "jer39": {
+            "id": 39,
+            "short": "Jer 39",
+            "name": "Jeremiah 39"
+        },
+        "jer40": {
+            "id": 40,
+            "short": "Jer 40",
+            "name": "Jeremiah 40"
+        },
+        "jer41": {
+            "id": 41,
+            "short": "Jer 41",
+            "name": "Jeremiah 41"
+        },
+        "jer42": {
+            "id": 42,
+            "short": "Jer 42",
+            "name": "Jeremiah 42"
+        },
+        "jer43": {
+            "id": 43,
+            "short": "Jer 43",
+            "name": "Jeremiah 43"
+        },
+        "jer44": {
+            "id": 44,
+            "short": "Jer 44",
+            "name": "Jeremiah 44"
+        },
+        "jer45": {
+            "id": 45,
+            "short": "Jer 45",
+            "name": "Jeremiah 45"
+        },
+        "jer46": {
+            "id": 46,
+            "short": "Jer 46",
+            "name": "Jeremiah 46"
+        },
+        "jer47": {
+            "id": 47,
+            "short": "Jer 47",
+            "name": "Jeremiah 47"
+        },
+        "jer48": {
+            "id": 48,
+            "short": "Jer 48",
+            "name": "Jeremiah 48"
+        },
+        "jer49": {
+            "id": 49,
+            "short": "Jer 49",
+            "name": "Jeremiah 49"
+        },
+        "jer50": {
+            "id": 50,
+            "short": "Jer 50",
+            "name": "Jeremiah 50"
+        },
+        "jer51": {
+            "id": 51,
+            "short": "Jer 51",
+            "name": "Jeremiah 51"
+        },
+        "jer52": {
+            "id": 52,
+            "short": "Jer 52",
+            "name": "Jeremiah 52"
+        }
+
+    }
+},
